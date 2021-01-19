@@ -19,7 +19,8 @@ There are 2 versions
 </ul>
 <hr>
 <h1>Circuits</h1>
-One strip (W.I.P.)
+One strip:
+<img src="https://github.com/AirPlayerYT/arduino_music_vis/blob/main/Mono.png">
 
 2 Strips:
 <img src="https://github.com/AirPlayerYT/arduino_music_vis/blob/main/Double.png">
