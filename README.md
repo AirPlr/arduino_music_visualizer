@@ -4,7 +4,7 @@ Arduino Music visualizer with 2 strips (easy circuit and code)
 
 This project is a modified version of another code, but I cant find it anymore, so here we are
 
-[![Watch the video](https://imgur.com/n72ZrXy)](https://youtu.be/jSymfb3HZiA)
+[![Watch the video](https://i.imgur.com/n72ZrXy.jpg)](https://youtu.be/jSymfb3HZiA)
 
 There are 2 versions
 <ul>
