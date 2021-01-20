@@ -25,5 +25,5 @@ Note: The diode is the audio jack, I didn't know what to use <br>
 One strip: Use <a href="https://github.com/AirPlayerYT/arduino_music_visualizer/blob/main/Sketch_led_mono.ino">THIS ONE</a>
 <img src="https://github.com/AirPlayerYT/arduino_music_vis/blob/main/Mono.png">
 
-2 Strips: Use <a href="https://github.com/AirPlayerYT/arduino_music_visualizer/blob/main/Arduino%20visualizer%20(English).ino">THIS ONE</a> or usa <a href="https://github.com/AirPlayerYT/arduino_music_visualizer/blob/main/Arduino%20visualizer%20(Italian).ino">QUESTO QUI (Italian)</a>
+2 Strips: Use <a href="https://github.com/AirPlayerYT/arduino_music_visualizer/blob/main/Arduino%20visualizer%20(English).ino">THIS ONE</a>
 <img src="https://github.com/AirPlayerYT/arduino_music_vis/blob/main/Double.png">
