@@ -4,7 +4,7 @@ Arduino Music visualizer with 2 strips (easy circuit and code)
 
 This project is a modified version of another code, but I cant find it anymore, so here we are
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jSymfb3HZiA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://imgur.com/a/OH9xQXo)](https://youtu.be/jSymfb3HZiA)
 
 There are 2 versions
 <ul>
