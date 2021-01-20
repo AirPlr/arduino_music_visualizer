@@ -19,7 +19,7 @@ There are 2 versions
 </ul>
 <hr>
 <h1>Circuits</h1>
-Note: The diode is the audio jack, I didn't know what to use
+Note: The diode is the audio jack, I didn't know what to use <br>
 One strip: Use <a href="https://github.com/AirPlayerYT/arduino_music_visualizer/blob/main/Sketch_led_mono.ino">THIS ONE</a>
 <img src="https://github.com/AirPlayerYT/arduino_music_vis/blob/main/Mono.png">
 
