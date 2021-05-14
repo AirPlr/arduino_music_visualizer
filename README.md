@@ -8,8 +8,8 @@ This project is a modified version of another code, but I cant find it anymore, 
 
 There are 2 versions
 <ul>
-  <li>One strip (working on the code part. Circuits are very easy)</li>
-  <li>Two strips (English and Italian comments)</li>
+  <li>One strip </li>
+  <li>Two strips </li>
 </ul><hr>
 <h3>Here is what I used:</h3>
 <ul>
