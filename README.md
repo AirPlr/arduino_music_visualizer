@@ -1,4 +1,4 @@
-<h2><b>Arduino Music visualizer (No Spectrum shield)</b></h2><br>[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com)
+<h2><b>Arduino Music visualizer (No Spectrum shield)</b></h2><br><img src="https://forthebadge.com/images/badges/powered-by-electricity.svg">
 
 Arduino Music visualizer with 2 strips (easy circuit and code)
 
