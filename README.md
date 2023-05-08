@@ -13,4 +13,4 @@ Arduino Music visualizer with an ARGB Strip (easy circuit and code)
 <hr>
 <h1>Circuit</h1>
 Note: The diode is the audio jack <br>
-<img src="https://github.com/AirPlayerYT/arduino_music_vis/blob/main/Mono.png">
+<img src="https://github.com/AirPlayerYT/arduino_music_vis/blob/main/Circuit.png">
