@@ -1,7 +1,7 @@
 <h2><b>Arduino Music visualizer (No Spectrum shield)</b></h2><br>
 
 Arduino Music visualizer with an ARGB Strip (easy circuit and code)
-<br
+<br>
 </ul><hr>
 <h3>Here is what I used:</h3>
 <ul>
